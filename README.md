@@ -1,2 +1,4 @@
 # Online-Portfolio
-www.linkedin.com/in/laddadam
+Online Portfolio Repository: 
+LinkedIn: www.linkedin.com/in/laddadam
+GitHub: https://github.com/laddyladd
